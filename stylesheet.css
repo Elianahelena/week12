@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(178, 231, 252);
+}
+
+h1:hover {
+    background-color: aqua;
+}
+
+.main {
+    width: 80%;
+    margin: 2rem auto 0 auto;
+    background-color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+
+.nav {
+    border: #000 solid 2px;
+    width: 40%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.nav a {
+    margin: 0 1rem;
+}
+
+.nav:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.article {
+    text-align: left;
+    margin-top: 2rem;
+}
+
+.article img {
+    float: left;
+    margin-right: 1rem;
+}
+
+.article p {
+    overflow: auto;
+}
